@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SubActivityDemo01</string>
+    <string name="app_test">Test Activity</string>    
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="text_name">Name:</string>
+    <string name="text_surname">Surname:</string>    
+    <string name="text_sex">Sex:</string>     
+    <string name="edit_name">EditName</string>
+    <string name="edit_surname">EditSurname</string> 
+    <string name="radio_m">M</string>     
+    <string name="radio_f">F</string>    
+    
+</resources>
