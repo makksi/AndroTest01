@@ -1,7 +1,5 @@
 package com.makksi.androtest01;
 
-import com.makksi.androtest.R;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.View;
